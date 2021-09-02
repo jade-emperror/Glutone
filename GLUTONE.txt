@@ -1,0 +1,23 @@
+THIS IS AN SELF OBSERVATORY NOTE.TO TRACK THE PREDICTION OUTCOMES IN THE REALTIME DATA ANALYSING PROCESS
+
+************************************************************************************14-11-2019**********************************************************************************************
+Three stocks predicted:ITC,BIOCON,SUNPHARMA
+ITC:prediction gone as it was predicted with 1.5% movement.(down)
+--->took three stocks as sample quit when it reached -1 due to scare.since it was an early bid before getting to the point.however it had an movement of 1.5%from where i left.
+BIOCON:pretty good prediction.gone >2%(up)
+--->had one stock  as a sample which got .5% when i had inserted 20 stocks,when it was triggered on anna system for notification.however it gone 1.35%from that entry.
+SUNPHARMA:got more than 2%(down)
+--->predicted high since they were trading on it,predicted the ghigh at 418 but the high was 417nd there was an huge downtrend from there.
+
+REMARK:all the predictions worked well
+       though i hadn't maintaineed them well.
+       
+***********************************************************************************15-11-2019************************************************************************************************
+the prediction results are backed in glutone dailies.
+
+took 6 trades.
+the actual fact is all the 6 exhibted >1% movement.but the loses were made by human mistake.
+
+Todays profit==35.85 excluding brokarage
+
+**********************************************************************************18-11-2019*********************************************************************************************************
